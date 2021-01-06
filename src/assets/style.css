@@ -1,0 +1,16 @@
+button {
+    padding: 6px 10px;
+    background-color: #2591e9;
+    border-radius:3px;
+    color: white;
+  
+}
+
+        
+button:hover {
+        background:#3b9ceb;
+        
+    }
+button:disabled{
+    background-color: black;
+}
